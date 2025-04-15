@@ -1,0 +1,3 @@
+https://ai-almarescai7004810361171243.openai.azure.com/openai/deployments/gpt-4o-4/chat/completions?api-version=2025-01-01-preview
+0b36f18c7ab440ad839bd11fbf0fa4d5
+gpt-4o-4
