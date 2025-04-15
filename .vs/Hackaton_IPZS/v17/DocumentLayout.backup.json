@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\Hackaton_IPZS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62CF7B0-6508-E46D-FCE1-092C622FC55C}|UI\\ui.esproj|c:\\sources\\hackaton_ipzs\\ui\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C62CF7B0-6508-E46D-FCE1-092C622FC55C}|UI\\ui.esproj|solutionrelative:ui\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CC7A4A-2754-4A75-B3DF-87DB1255CBC6}|api\\api.csproj|c:\\sources\\hackaton_ipzs\\api\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CC7A4A-2754-4A75-B3DF-87DB1255CBC6}|api\\api.csproj|solutionrelative:api\\controllers\\docscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CC7A4A-2754-4A75-B3DF-87DB1255CBC6}|api\\api.csproj|c:\\sources\\hackaton_ipzs\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54CC7A4A-2754-4A75-B3DF-87DB1255CBC6}|api\\api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CC7A4A-2754-4A75-B3DF-87DB1255CBC6}|api\\api.csproj|c:\\sources\\hackaton_ipzs\\api\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CC7A4A-2754-4A75-B3DF-87DB1255CBC6}|api\\api.csproj|solutionrelative:api\\controllers\\assistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|c:\\sources\\hackaton_ipzs\\agents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|solutionrelative:agents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|c:\\sources\\hackaton_ipzs\\agents\\utils\\instractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|solutionrelative:agents\\utils\\instractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|c:\\sources\\hackaton_ipzs\\agents\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|solutionrelative:agents\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|c:\\sources\\hackaton_ipzs\\agents\\plugins\\docsplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|solutionrelative:agents\\plugins\\docsplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|c:\\sources\\hackaton_ipzs\\agents\\plugins\\criticalplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750BBDC2-0787-E4F7-AA1A-EA84D7EAD4BE}|Agents\\Agents.csproj|solutionrelative:agents\\plugins\\criticalplugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\api\\api.csproj",
+              "RelativeDocumentMoniker": "api\\api.csproj",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\api\\api.csproj",
+              "RelativeToolTip": "api\\api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T21:01:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssistantController.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\api\\Controllers\\AssistantController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AssistantController.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\api\\Controllers\\AssistantController.cs",
+              "RelativeToolTip": "api\\Controllers\\AssistantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:57:56.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocsController.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\api\\Controllers\\DocsController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\DocsController.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\api\\Controllers\\DocsController.cs",
+              "RelativeToolTip": "api\\Controllers\\DocsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:57:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\UI\\src\\App.tsx",
+              "RelativeDocumentMoniker": "UI\\src\\App.tsx",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\UI\\src\\App.tsx",
+              "RelativeToolTip": "UI\\src\\App.tsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T20:46:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instractions.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\Agents\\Utils\\Instractions.cs",
+              "RelativeDocumentMoniker": "Agents\\Utils\\Instractions.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\Agents\\Utils\\Instractions.cs",
+              "RelativeToolTip": "Agents\\Utils\\Instractions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:10:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriticalPlugins.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\Agents\\Plugins\\CriticalPlugins.cs",
+              "RelativeDocumentMoniker": "Agents\\Plugins\\CriticalPlugins.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\Agents\\Plugins\\CriticalPlugins.cs",
+              "RelativeToolTip": "Agents\\Plugins\\CriticalPlugins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:41:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocsPlugins.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\Agents\\Plugins\\DocsPlugins.cs",
+              "RelativeDocumentMoniker": "Agents\\Plugins\\DocsPlugins.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\Agents\\Plugins\\DocsPlugins.cs",
+              "RelativeToolTip": "Agents\\Plugins\\DocsPlugins.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:00:17.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\Agents\\Program.cs",
+              "RelativeDocumentMoniker": "Agents\\Program.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\Agents\\Program.cs",
+              "RelativeToolTip": "Agents\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAowMgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:02:14.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Sources\\Hackaton_IPZS\\Agents\\Settings.cs",
+              "RelativeDocumentMoniker": "Agents\\Settings.cs",
+              "ToolTip": "C:\\Sources\\Hackaton_IPZS\\Agents\\Settings.cs",
+              "RelativeToolTip": "Agents\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:02:06.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
